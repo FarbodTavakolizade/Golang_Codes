@@ -1,0 +1,31 @@
+linux install go
+
+
+
+sudo apt update
+sudo apt search golang-go
+sudo apt search gccgo-go
+sudo apt install golang-go
+
+
+download vs code from website
+
+
+linux install git
+
+sudo apt update
+sudo apt-get install git
+
+
+
+
+windows
+
+download git,go,vscode from mentioned websites
+
+
+
+vs code extentions for linuxand windows
+
+code --install-extension formulahendry.code-runner
+code --install-extension golang.go
