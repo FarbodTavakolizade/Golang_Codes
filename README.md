@@ -15,7 +15,7 @@ sudo apt update
 
 sudo apt-get install git
 ------------------------------------------
-Install vscode for git and windows
+Install vscode and git for windows
 
 [Install vscode](https://code.visualstudio.com/download)
 
