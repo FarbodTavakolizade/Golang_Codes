@@ -240,3 +240,5 @@ func drawText(row, col int, text string) {
     }
 }
 
+//https://github.com/presmihaylov/lpwg/blob/main/game-projects/zombie_attack  همین بازی در یه ریپوزیتوری دیگه  که خیلی پیچیده تر و سیاه سفید هم هست کاملا
+
