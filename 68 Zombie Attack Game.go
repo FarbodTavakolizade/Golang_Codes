@@ -239,3 +239,4 @@ func drawText(row, col int, text string) {
         screen.SetContent(col+i, row, ch, nil, tcell.StyleDefault)
     }
 }
+
